@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 365.04 90">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5b5b5b;
+        font-family: NotoSansKR-SemiBold, 'Noto Sans KR';
+        font-size: 28px;
+        font-weight: 600;
+      }
+
+      .cls-2 {
+        fill: #007867;
+        font-family: NotoSansKR-Bold, 'Noto Sans KR';
+        font-size: 55.99px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="_출입통제체계" data-name="출입통제체계">
+      <text class="cls-2" transform="translate(-.03 48.27)"><tspan x="0" y="0">출입통제체계</tspan></text>
+    </g>
+    <g id="Access_Control_System">
+      <text class="cls-1" transform="translate(5 80.93)"><tspan x="0" y="0">Access Control System</tspan></text>
+    </g>
+  </g>
+</svg>
